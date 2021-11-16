@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cri-test/static/css/main.f36d2563.chunk.css",
-    "main.js": "/cri-test/static/js/main.8933fdff.chunk.js",
-    "main.js.map": "/cri-test/static/js/main.8933fdff.chunk.js.map",
+    "main.js": "/cri-test/static/js/main.c968ce65.chunk.js",
+    "main.js.map": "/cri-test/static/js/main.c968ce65.chunk.js.map",
     "runtime-main.js": "/cri-test/static/js/runtime-main.c41ca016.js",
     "runtime-main.js.map": "/cri-test/static/js/runtime-main.c41ca016.js.map",
     "static/js/2.ef7ea202.chunk.js": "/cri-test/static/js/2.ef7ea202.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c41ca016.js",
     "static/js/2.ef7ea202.chunk.js",
     "static/css/main.f36d2563.chunk.css",
-    "static/js/main.8933fdff.chunk.js"
+    "static/js/main.c968ce65.chunk.js"
   ]
 }
